@@ -1,5 +1,7 @@
 # Crio_QBox
-QBox is a secure file-sharing service. It is a customized version of the popularly available VSFTPD server.
+QBox is a secure file-sharing service. 
+
+- It is a customized version of the popularly available VSFTPD server.
 
 - Created pre-install scripts to run system checks, install and configure QBox.
 
